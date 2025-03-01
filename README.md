@@ -1,4 +1,4 @@
-# Auto Script Xray only
+# Auto Script Xray only @2025
 
 ## 1.Update Script
 ```
@@ -19,4 +19,3 @@ sudo systemctl restart xray
 ```
 sudo systemctl status xray
 ```
-## AutoScript Xray Only @ 2025
