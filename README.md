@@ -1,9 +1,22 @@
-# XRAY Only
+# Auto Script Xray only
 
-## Update dan Upgrade Sistem
+## 1.Update Script
 ```
-sudo apt update && sudo apt upgrade -y```
+sudo apt update && sudo apt upgrade -y
+```
 
-## installasi autoscript Xray Only
+## 2.Installasi AutoScript
 ```
-wget github.com/scriswan/xray-only/raw/main/install && bash install```
+wget github.com/scriswan/xray-only/raw/main/install && bash install
+```
+
+## 3.Restart Xray: Jika Anda ingin merestart layanan Xray, gunakan perintah berikut:
+```
+sudo systemctl restart xray
+```
+
+## 4.Periksa Status Xray: Untuk memastikan Xray berjalan dengan baik, periksa statusnya:
+```
+sudo systemctl status xray
+```
+## AutoScript Xray Only @ 2025
