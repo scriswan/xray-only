@@ -10,12 +10,12 @@ sudo apt update && sudo apt upgrade -y
 wget github.com/scriswan/xray-only/raw/main/install && bash install
 ```
 
-## 3.Restart Xray: Jika Anda ingin merestart layanan Xray:
+## 3.merestart layanan Xray
 ```
 sudo systemctl restart xray
 ```
 
-## 4.Periksa Status Xray: Untuk memastikan Xray berjalan dengan baik, periksa statusnya:
+## 4.Untuk memastikan Xray berjalan
 ```
 sudo systemctl status xray
 ```
