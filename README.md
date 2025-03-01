@@ -1,4 +1,4 @@
-##### Auto Script Xray only @2025
+### Auto Script Xray only @2025 RiswanJabar Store
 
 ## 1.Update Script
 ```
